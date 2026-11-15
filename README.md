@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**mauridho14-byte/mauridho14-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ridho Maulana 👋
 
-Here are some ideas to get you started:
+💻 Aspiring Web & Backend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about programming and continuously improving my skills.
+
+## 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,java)](https://skillicons.dev)
+
+## 🌱 Currently Learning
+
+- Web Development
+- Backend Development
+- Software Engineering
+
+## 🎯 Goals
+
+Building useful applications and becoming a better developer every day.
+
